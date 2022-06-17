@@ -30,7 +30,7 @@
 		<lombok.version>1.16.20</lombok.version>
 		<swagger2.version>2.8.0</swagger2.version>
 		<ttl.version>2.2.0</ttl.version>
-		<fastjson.version>1.2.46</fastjson.version>
+		<fastjson.version>1.2.83</fastjson.version>
 		<javadoc.version>3.0.0</javadoc.version>
 		<hutool.version>4.3.0</hutool.version>
 		<commons-io.version>2.6</commons-io.version>
